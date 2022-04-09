@@ -2,20 +2,16 @@
 title: 'About me'
 menu:
   main:
-    name: "AboutMe"
+    name: "Jose Jimenez"
 ---
 
 ## Who am I
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
-
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+> Soy ingeniero en comunicaciones y electronica.
+> Trabajo en el área de microondas y radiofrecuencia en una televisora.
+> Me gusta leer, hacer ejercicio, ver peliculas y series, escuchar musica.
+> Me gusta vuiajar y conocer nuevos sitios. 
+> Me gusta jugar Starcraft y aprender nuevos temas. 
 
